@@ -1,0 +1,24 @@
+body
+{
+    margin: 0;
+    background-color: #313131;
+}
+.container
+{
+    display: flex;
+}
+.middlePage
+{
+    display: flex;
+    flex-direction: column;
+    margin-left: calc(200px + 5px);
+    width: calc(100% - 483px);
+}
+.flexForProfil
+{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    right: 0;
+}

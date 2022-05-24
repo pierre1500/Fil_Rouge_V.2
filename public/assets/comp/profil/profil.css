@@ -1,0 +1,41 @@
+.containProfil
+{
+    width: 273px;
+    height: 260px;
+    background-color: #414141;
+    margin-left: 5px;
+}
+.imgProfil
+{
+    max-width: 90px;
+    width: 100%;
+    height: 90px;
+    border-radius: 50px;
+    background-color: #00A7AA;
+    margin: auto;
+    margin-top: 30px;
+}
+.listProfil
+{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+.puceProfil
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #525252;
+    width: 100px;
+    padding: 5px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+}
+.pseudo
+{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}

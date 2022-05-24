@@ -1,0 +1,21 @@
+#popUpComposant
+{
+    position: absolute;
+    width: 400px;
+    height: 797px;
+    background-color: white;
+    top: 140px;
+    display: none;
+    z-index: 2;
+}
+.choixComposants
+{
+    border: solid black 2px;
+    background-color: #1F2430;
+    color: white;
+    width: calc(100% - 44px) ;
+    text-align: center;
+    font-size: 23px;
+    font-family: 'DM Sans', sans-serif;
+    padding: 20px;
+}

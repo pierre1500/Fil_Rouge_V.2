@@ -1,0 +1,10 @@
+.live-room {
+    height: calc(50vh - 63px);
+    background: #fff;
+    border-top: solid 10px #333;
+    position: relative;
+}
+.live-room iframe {
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,15 @@
+.create-composant
+{
+    margin-top: 30px;
+    border-radius: 50px;
+    background-color: white;
+    border: none;
+    min-width: 260px;
+    padding: 1px;
+    font-size: 23px;
+    font-family: 'DM Sans', sans-serif;
+    color: black;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    height: 40px;
+}

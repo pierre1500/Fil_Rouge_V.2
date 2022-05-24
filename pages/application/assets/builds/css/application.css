@@ -1,0 +1,120 @@
+body
+{
+    margin: 0px;
+    background-color: antiquewhite;
+}
+.menu
+{
+    display: flex;
+}
+#application
+{
+    width: 100%;
+    min-height: 210px;
+    background-color: #1F2430;
+    display: inline-block;
+}
+.tag
+{
+    margin-top: 30px;
+    border-radius: 50px;
+    background-color: white;
+    border: none;
+    min-width: 190px;
+    padding: 1px;
+    font-size: 23px;
+    font-family: 'DM Sans', sans-serif;
+    color: black;
+    margin-right: 30px
+}
+#option-container
+{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.fonction
+{
+    border-radius: 8px;
+    max-width: 400px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+#partie-code-resultat
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.menu-css
+{
+    top: -62px;
+}
+
+.menu-js
+{
+    top: -124px;
+}
+.langages-open
+{
+    overflow: visible;
+}
+
+.langages-close
+{
+    overflow: hidden;
+}
+/* Scrollbars */
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: #555;
+    border-radius: 20px;
+}
+.CodeMirror {
+    font-size: 14px;
+    height: 100%;
+    width: 100%;
+}
+.studio
+{
+    overflow: hidden;
+}
+.editor {
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+    height: 100%;
+    position: relative;
+}
+.control-room {
+    height: calc(50vh - 63px);
+    background: #eee;
+    border-top: solid 1px #000;
+    margin-bottom: 8px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+}
+#cssEditor
+{
+    display: none;
+}
+#jsEditor
+{
+    display: none;
+}
+.outils
+{
+    display: flex;
+    width: 100%;
+    justify-content: end;
+}
