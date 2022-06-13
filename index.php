@@ -1,3 +1,7 @@
+<?php
+include 'pages/page-inscription-connection/form-connect/session.php';
+session::ouvrir_et_verifier();
+?>
 <!doctype html>
 <html lang="fr">
 <head>
