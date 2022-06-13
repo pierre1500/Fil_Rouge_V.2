@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b0f5e36-f835-49cb-97dd-315c346841f3" name="Changes" comment="Update 13/06/2022">
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/.idea/form-connect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/deconnexion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/formConnect.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/login-back.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/prive.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/register-back.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/session.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/assets/comp/form-page-connection/connection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/assets/comp/form-page-connection/form-page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/assets/comp/form-page-inscription/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/assets/comp/form-page-inscription/form-page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/assets/comp/form-page-inscription/form-page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/assets/comp/form-page-inscription/recup-form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/assets/link/link.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/page-connection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/page-inscription.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pages/page-inscription-connection/form-connect" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2A0m5I1D4enOw9phuifyPshcFNf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Stagiaire/Desktop/sessions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Mon Fil rouge v.2\pages\page-inscription-connection" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b0f5e36-f835-49cb-97dd-315c346841f3" name="Changes" comment="" />
+      <created>1654154691626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654154691626</updated>
+      <workItem from="1654154693182" duration="3696000" />
+      <workItem from="1654164552874" duration="211000" />
+      <workItem from="1654864872904" duration="2488000" />
+      <workItem from="1655103880644" duration="7359000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update 13/06/2022">
+      <created>1655104086601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655104086601</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update 13/06/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 13/06/2022" />
+  </component>
+</project>
