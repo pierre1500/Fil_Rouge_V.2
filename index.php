@@ -39,10 +39,6 @@ session::ouvrir_et_verifier();
         include 'public/assets/comp/amis/amis.php';
         ?>
 
-        <!--Session user-->
-        <?php
-        include 'public/assets/builds/session-user.php'
-        ?>
     </div>
 </div>
 </body>

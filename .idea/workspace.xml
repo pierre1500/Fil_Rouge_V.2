@@ -4,32 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b0f5e36-f835-49cb-97dd-315c346841f3" name="Changes" comment="Update 13/06/2022">
-      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/.idea/form-connect.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/ajax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/deconnexion.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/formConnect.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/login-back.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/prive.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/register-back.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/session.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="4b0f5e36-f835-49cb-97dd-315c346841f3" name="Changes" comment="Update 13/06/2022 Login/Register">
+      <change afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/ajax-login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/assets/comp/form-page-connection/connection.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/assets/comp/form-page-connection/form-page.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/assets/comp/form-page-inscription/database.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/assets/comp/form-page-inscription/form-page.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/assets/comp/form-page-inscription/form-page.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/assets/comp/form-page-inscription/recup-form.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/assets/link/link.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/page-connection.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/page-inscription.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/ajax-register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/deconnexion.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/deconnexion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/login-back.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/login-back.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/register-back.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/register-back.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/session.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/session.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/builds/session-user.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/comp/nav/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/comp/nav/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/link/link.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/link/link.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,19 +44,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Stagiaire/Desktop/sessions",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Stagiaire/Desktop/sessions&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\Mon Fil rouge v.2\pages\page-inscription-connection" />
@@ -85,7 +73,9 @@
       <workItem from="1654154693182" duration="3696000" />
       <workItem from="1654164552874" duration="211000" />
       <workItem from="1654864872904" duration="2488000" />
-      <workItem from="1655103880644" duration="7359000" />
+      <workItem from="1655103880644" duration="7835000" />
+      <workItem from="1655192050581" duration="162000" />
+      <workItem from="1655192310298" duration="4350000" />
     </task>
     <task id="LOCAL-00001" summary="Update 13/06/2022">
       <created>1655104086601</created>
@@ -94,7 +84,42 @@
       <option name="project" value="LOCAL" />
       <updated>1655104086601</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update 13/06/2022">
+      <created>1655132026946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655132026946</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update 13/06/2022 Login/Register">
+      <created>1655132052865</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655132052865</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update 13/06/2022 Login/Register">
+      <created>1655132071091</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655132071091</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update 13/06/2022 Login/Register">
+      <created>1655132074300</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655132074300</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update 13/06/2022 Login/Register">
+      <created>1655132090449</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655132090449</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update 13/06/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 13/06/2022" />
+    <MESSAGE value="Update 13/06/2022 Login/Register" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 13/06/2022 Login/Register" />
   </component>
 </project>
