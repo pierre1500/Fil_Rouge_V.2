@@ -26,8 +26,14 @@
     list-style: none;
     color: white;
     padding: 0px;
+    text-decoration: none;
 }
 .puce-nav
 {
     margin: 20px;
+}
+.a-nav
+{
+    color: white;
+    text-decoration: none;
 }

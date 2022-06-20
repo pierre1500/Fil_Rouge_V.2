@@ -1,4 +1,4 @@
-<button class="create-composant">
+<button id="createComposant" class="create-composant">
     Create Composant
 </button>
 </div>

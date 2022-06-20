@@ -1,20 +1,5 @@
-<div id="popUpComposant">
+<div id="popUpComposant" class="popUpComposant">
     <div id="bandeau" class="choixComposants">
-        Bandeau
-    </div>
-    <div class="choixComposants">
-        NavBar
-    </div>
-    <div class="choixComposants">
-        Carroussel
-    </div>
-    <div class="choixComposants">
-
-    </div>
-    <div class="choixComposants">
-
-    </div>
-    <div class="choixComposants">
-
+        <h2>COMPOSANT</h2>
     </div>
 </div>

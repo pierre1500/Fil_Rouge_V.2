@@ -18,3 +18,4 @@
     <link rel="stylesheet" href="assets/comp/choixLangue/choixLangue.css">
     <link rel="stylesheet" href="assets/comp/buttonCreateComposant/buttonCreateComposant.css">
     <link rel="stylesheet" href="assets/comp/liveRoom/liveRoom.css">
+    <link rel="stylesheet" href="assets/comp/popUpCreateComposant/popUpCreateComposant.css">

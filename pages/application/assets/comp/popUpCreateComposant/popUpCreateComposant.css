@@ -1,0 +1,51 @@
+.popUpCreateComposant
+{
+    width: 400px;
+    height: 250px;
+    position: absolute;
+    left: calc(50% - 200px);
+    top: calc(50% - 200px);
+    z-index: 2;
+    background-color: white;
+    border-radius: 50px;
+    border: #0c0c0d solid 2px;
+    display: none;
+    align-items: center;
+    flex-direction: column;
+
+}
+.titlePopUpCreateComposant
+{
+    font-family: 'DM Sans', sans-serif;
+}
+.formPopUpCreateComposant
+{
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+}
+.namePopUpCreateComposant
+{
+
+    min-width: 300Px;
+    margin-top: 10px;
+    height: 40px;
+    border: #0c0c0d solid 2px;
+}
+.namePopUpCreateComposant::placeholder
+{
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+}
+.buttonPopUpCreateComposant
+{
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+    border: #0c0c0d solid 2px;
+    border-radius: 50px;
+    background-color: #1F2430;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'DM Sans', sans-serif;
+}
