@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b0f5e36-f835-49cb-97dd-315c346841f3" name="Changes" comment="Update 14/06/2022 Login/Register Final">
-      <change afterPath="$PROJECT_DIR$/pages/application/assets/comp/popUpComposants/openComp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/comp/amis/connectBddAmis.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/comp/contact/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/comp/contact/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/comp/contact/contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/comp/nav/nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/barreNav/barreNav.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/comp/barreNav/barreNav.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/bouttonComposants/bouttonComposants.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/comp/bouttonComposants/bouttonComposants.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/bouttonComposants/selectComp.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/comp/bouttonComposants/selectComp.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/popUpComposants/popUpComposants.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/comp/popUpComposants/popUpComposants.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/popUpModel1/popUpModel1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/popUpModel1/popUpModel1.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/comp/popUpComposants/openComp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/popUpModel1/popUpModel1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/application/assets/link/link.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/link/link.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/application/lib/files/codemirror.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/lib/files/codemirror.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/comp/amis/amis.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/comp/amis/amis.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/comp/amis/amis.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/comp/amis/amis.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/comp/nav/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/comp/nav/nav.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/link/link.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/link/link.php" afterDir="false" />
-    </list>
+    <list default="true" id="4b0f5e36-f835-49cb-97dd-315c346841f3" name="Changes" comment="Update 14/06/2022 Login/Register Final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Stagiaire/Desktop/NewProject/buzz-api",
+    "last_opened_file_path": "C:/xampp/htdocs/Mon Fil rouge v.2",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -110,6 +87,7 @@
       <workItem from="1657027123633" duration="27000" />
       <workItem from="1657181344697" duration="7012000" />
       <workItem from="1657263920949" duration="13000" />
+      <workItem from="1657268459820" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="Update 13/06/2022">
       <created>1655104086601</created>
@@ -160,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655197462643</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update 14/06/2022 Login/Register Final">
+      <created>1657268484477</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657268484477</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
