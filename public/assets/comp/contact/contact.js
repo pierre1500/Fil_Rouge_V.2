@@ -1,10 +1,10 @@
 /* On prépare la requête AJAX : URL, méthode et paramètres */
-const requete = fetch('public/assets/comp/amis/connectBddAmis.php', {
+const requete2 = fetch('public/assets/comp/amis/connectBddAmis.php', {
     method: 'POST'
 });
 
 /* On lance la requête AJAX grâce à fetch */
-requete.then(traiterReponse).then(traiterJson).catch(traiterErreur);
+requete2.then(traiterReponse).then(traiterJson).catch(traiterErreur);
 
 
 /* Cette fonction traite la réponse du serveur */
@@ -20,7 +20,7 @@ function traiterJson(obj) {
             '<p class="pseudoFriend">'+ friend.pseudo + '</p>' + '<img class="imgConnect" src="public/assets/images/ellipseConnect.png">' +
             ' <p class="connectFriend">' + friend.connect + '</p>' + '</div>';
     }
-    document.getElementById("friend").innerHTML = html;
+    document.getElementById("friendList").innerHTML = html;
 }
 
 /* Cette fonction traite les cas d'erreur */

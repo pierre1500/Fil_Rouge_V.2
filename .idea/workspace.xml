@@ -5,27 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b0f5e36-f835-49cb-97dd-315c346841f3" name="Changes" comment="Update 14/06/2022 Login/Register Final">
-      <change afterPath="$PROJECT_DIR$/pages/application/assets/comp/bouttonComposants/selectComp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/application/assets/comp/popUpCreateComposant/addComposantToBdd.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/application/assets/comp/popUpCreateComposant/popUpCreateComposant.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/application/assets/comp/popUpCreateComposant/popUpCreateComposant.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/application/assets/comp/popUpCreateComposant/popUpCreateComposant.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/application/assets/comp/popUpComposants/openComp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/comp/amis/connectBddAmis.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/comp/contact/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/comp/contact/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/comp/contact/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/comp/nav/nav.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/application/application.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/application.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/application/assets/builds/php/sql.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/barreNav/barreNav.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/comp/barreNav/barreNav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/barreNav/barreNav.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/comp/barreNav/barreNav.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/bouttonComposants/bouttonComposants.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/comp/bouttonComposants/bouttonComposants.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/buttonCreateComposant/buttonCreateComposant.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/comp/buttonCreateComposant/buttonCreateComposant.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/popUpComposants/popUpComposants.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/comp/popUpComposants/popUpComposants.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/bouttonComposants/selectComp.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/comp/bouttonComposants/selectComp.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/popUpComposants/popUpComposants.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/comp/popUpComposants/popUpComposants.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/popUpModel1/popUpModel1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/popUpModel1/popUpModel1.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/comp/popUpComposants/openComp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/application/assets/comp/popUpModel1/popUpModel1.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/application/assets/link/link.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/assets/link/link.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/ajax-login.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/ajax-login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/ajax-register.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/ajax-register.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/login-back.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/login-back.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/register-back.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/register-back.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/comp/nav/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/comp/nav/nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/application/lib/files/codemirror.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/application/lib/files/codemirror.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/page-inscription-connection/form-connect/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/comp/amis/amis.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/comp/amis/amis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/comp/amis/amis.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/comp/amis/amis.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/assets/comp/nav/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/comp/nav/nav.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/comp/profil/profil.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/comp/profil/profil.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/link/link.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/link/link.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/php/php.exe",
+    "last_opened_file_path": "C:/Users/Stagiaire/Desktop/NewProject/buzz-api",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -98,6 +99,17 @@
       <workItem from="1655277041542" duration="1510000" />
       <workItem from="1655363185730" duration="1418000" />
       <workItem from="1655709030514" duration="14718000" />
+      <workItem from="1655796071969" duration="32000" />
+      <workItem from="1655798737141" duration="84000" />
+      <workItem from="1655996846594" duration="700000" />
+      <workItem from="1656055292375" duration="3664000" />
+      <workItem from="1656070823719" duration="6178000" />
+      <workItem from="1656317371121" duration="13621000" />
+      <workItem from="1656400046763" duration="34000" />
+      <workItem from="1657026386114" duration="383000" />
+      <workItem from="1657027123633" duration="27000" />
+      <workItem from="1657181344697" duration="7012000" />
+      <workItem from="1657263920949" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="Update 13/06/2022">
       <created>1655104086601</created>

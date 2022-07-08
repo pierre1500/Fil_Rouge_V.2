@@ -29,6 +29,10 @@ session::ouvrir_et_verifier();
         include 'public/assets/comp/navMiddle/navMiddle.php';
         ?>
     </div>
+    <!--Contact-->
+    <?php
+    include 'public/assets/comp/contact/contact.php';
+    ?>
     <div class="flexForProfil">
         <!--Profil-->
     <?php
@@ -42,4 +46,5 @@ session::ouvrir_et_verifier();
     </div>
 </div>
 </body>
+<script src="/public/assets/comp/nav/nav.js"></script>
 </html>

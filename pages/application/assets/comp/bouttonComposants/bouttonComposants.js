@@ -24,7 +24,7 @@ button.addEventListener("click", () => {
         function traiterJson(obj) {
             let html = "";
         for (comp of obj) {
-            html += '<div id="' + comp.id + '" class="choixComposants">' +
+            html += '<div id="' + comp.id + '" class="choixComposants" onclick="clickComp(' + comp.id + ')">' +
                     '<h2>'+ comp.name + '</h2>' +
                     '</div>';
         }
@@ -37,3 +37,6 @@ button.addEventListener("click", () => {
         }
 
 })
+
+
+

@@ -19,3 +19,5 @@
     <link rel="stylesheet" href="assets/comp/buttonCreateComposant/buttonCreateComposant.css">
     <link rel="stylesheet" href="assets/comp/liveRoom/liveRoom.css">
     <link rel="stylesheet" href="assets/comp/popUpCreateComposant/popUpCreateComposant.css">
+<script src="assets/comp/popUpComposants/openComp.js"></script>
+<script src="lib\files\codemirror\addon\display\autorefresh.js"></script>

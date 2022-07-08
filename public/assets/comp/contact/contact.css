@@ -1,0 +1,67 @@
+.popUpFriend{
+    display: none;
+    position: absolute;
+    width: 300px;
+    min-height: 400px;
+    background-color: #fff;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: solid black 3px;
+    z-index: 100;
+    background-color: #414141;
+}
+.titlePopUpFriend
+{
+    height: 50px;
+    background-color: #414141;
+    color: white;
+    display: flex;
+    align-items: center;
+    width: 75%;
+    justify-content: center;
+    font-size: 30px;
+    border-bottom: solid black 2px;
+}
+.addFriend{
+    height: 50px;
+    background-color: #414141;
+    color: white;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    font-size: 30px;
+}
+.textFriend{
+    height: 50px;
+    background-color: #414141;
+    color: white;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    font-size: 30px;
+    border-bottom: solid black 2px;
+    border-top: solid black 2px;
+}
+.closePopUpFriend
+{
+    height: 50px;
+    background-color: #414141;
+    color: white;
+    display: flex;
+    align-items: center;
+    width: 25%;
+    justify-content: center;
+    font-size: 30px;
+    border-bottom: solid black 2px;
+}
+#friendList
+{
+    background-color: #414141;
+}
+.friend
+{
+ border-bottom: solid black 1px;;
+}
